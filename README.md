@@ -15,7 +15,7 @@
 [Minsu Kim](https://minsu1206.github.io/), [Subin Jeon](https://sites.google.com/yonsei.ac.kr/subinjeon/home), [In Cho](https://sites.google.com/view/im-join), [Mijin Yoo](https://yoomimi.github.io/), [Seon Joo Kim](https://sites.google.com/site/seonjookim/)
 
 ## 🔗 Links
-[Project page](https://exploregs.github.io/) | [Paper](https://arxiv.org/abs/2508.06014) | [Dataset]()
+[Project page](https://exploregs.github.io/) | [Paper](https://arxiv.org/abs/2508.06014) | [Dataset](https://drive.google.com/drive/folders/1f-16mm-13qViaSM18Bauk79ejVywzvvp?usp=drive_link)
 
 ---
 
