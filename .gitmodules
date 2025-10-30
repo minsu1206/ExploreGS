@@ -1,0 +1,21 @@
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "SIBR_viewers"]
+	path = SIBR_viewers
+	url = https://gitlab.inria.fr/sibr/sibr_core.git
+[submodule "diffusers"]
+	path = diffusers
+	url = https://github.com/huggingface/diffusers.git
+[submodule "submodules/diff-gaussian-rasterization-fisherrf"]
+	path = submodules/diff-gaussian-rasterization-fisherrf
+	url = https://github.com/minsu1206/diff-gaussian-rasterization-fisherrf.git
+[submodule "submodules/upgrade-diff-gaussian-rasterization"]
+	path = submodules/upgrade-diff-gaussian-rasterization
+	url = https://github.com/minsu1206/upgrade-diff-gaussian-rasterization.git
+[submodule "Depth-Anything-V2"]
+	path = Depth-Anything-V2
+	url = https://github.com/DepthAnything/Depth-Anything-V2.git
+[submodule "3DGS_Enhancer_Extra"]
+	path = 3DGS_Enhancer_Extra
+	url = https://github.com/minsu1206/3DGS_Enhancer_Extra.git

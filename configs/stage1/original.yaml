@@ -1,0 +1,5 @@
+expname: stage1_default
+
+OptimizationParams:
+  iterations: 30_050
+  appearance_model: original

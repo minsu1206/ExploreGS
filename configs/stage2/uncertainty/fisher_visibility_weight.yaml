@@ -1,0 +1,4 @@
+MaskParams:
+  use_fisher: True
+  fisher_current: True
+  visibility_weight: True

@@ -1,0 +1,3 @@
+MaskParams:
+  use_visibility_mask: True
+  binarized_threshold: 0.5

@@ -1,0 +1,4 @@
+expname: stage1_default
+
+OptimizationParams:
+  iterations: 30_050

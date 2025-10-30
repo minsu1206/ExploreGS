@@ -1,0 +1,10 @@
+expname: stage1_default
+
+ModelParams:
+  depths: "depths"
+
+OptimizationParams:
+  iterations: 30_050
+  depth_l1_weight_init: 1.0
+  depth_l1_weight_final: 0.01
+  inv_depth: True

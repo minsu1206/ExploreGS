@@ -1,0 +1,12 @@
+DiffusionParams:
+  prior_type: enhancer
+  input_resolution: 320 # not used at here
+  model_root: ./3DGS_Enhancer_Extra
+  model_ckpt_path: diffusion/ckpt/enhancer.ckpt
+  # model_ckpt_path: ""
+  model_config_path: configs/training_512_mv/inference.yaml
+  minibatch: -1
+  crop: force_resize
+
+  # ver2.
+  wrap_seq: True # for CameraGenerator

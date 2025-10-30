@@ -1,0 +1,2 @@
+PipelineParams:
+  export_camera: True # default value

@@ -1,0 +1,4 @@
+MaskParams:
+  use_fisher: True
+  use_ref: True
+  filter: [0,1,2,3,5]

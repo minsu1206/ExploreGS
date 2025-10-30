@@ -1,0 +1,24 @@
+VirtualCamParams: # search_v29_refine_o_fixrot_shieldmix0.5-4_depthrjmix0.5-4_tsdf512_dbg
+  dataset_update_iter: -1
+  dataset_update_percentage: -1
+  dataset_update_counts: 16
+  reference_strategy: "video-sequence"
+  
+  search_bbox: "freespace-obb"
+  search_voxel_resolution: 64
+  search_coarse_voxel_resolution: 16
+  search_search_strategy: "dfs"
+  search_expand_strategy: ["view-coverage-refine"]
+  search_topk: 3
+  search_subsample: 2 ## the number of virtual trajectories
+  search_use_frontier: 1
+  search_early_guard: "force-free"
+  search_anchor_set: ["6t", "4r", "4o"]
+  search_dir_angle: 45 # default = 30
+  search_fix_right_vec: True
+  search_fix_up_vec: True
+  search_mesh_dist_threshold: "mix_0.5_3.0" # min(depth_threshold, voxel_size)
+  search_reject_depth: "mix_0.5_4.0" # min(depth_threshold, voxel_size)
+  search_mesh_res: 512
+  search_anchor_set_angle: 10
+  search_anchor_set_angle_orbit: 10

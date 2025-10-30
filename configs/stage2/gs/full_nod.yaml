@@ -1,0 +1,7 @@
+OptimizationParams:
+  iterations: 15_000 # for iter
+  densify_until_iter: 42_000 # 12K + 30K (begin)
+  opacity_reset_interval: 99999 # disable
+  image_confidence: "inv-iou"
+  pixel_confidence: "px-lpips"
+  conf_once: True

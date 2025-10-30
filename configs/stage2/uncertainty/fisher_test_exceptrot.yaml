@@ -1,0 +1,4 @@
+MaskParams:
+  use_fisher: True
+  fisher_current: True
+  filter: [0,1,2,3,5]

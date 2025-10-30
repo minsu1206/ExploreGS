@@ -1,0 +1,4 @@
+MaskParams:
+  use_fisher: True
+  skip_train: True
+  filter: [0,1,2,3,5]

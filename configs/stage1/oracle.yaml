@@ -1,0 +1,7 @@
+expname: oracle
+
+ModelParams:
+  oracle: True
+
+OptimizationParams:
+  iterations: 30_050

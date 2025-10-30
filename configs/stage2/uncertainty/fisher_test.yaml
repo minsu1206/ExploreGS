@@ -1,0 +1,3 @@
+MaskParams:
+  use_fisher: True
+  fisher_current: True
