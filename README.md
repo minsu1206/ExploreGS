@@ -29,7 +29,7 @@
 
 1. Code setup
     ```
-    git clone https://github.com/exploregs/exploregs.git --recursive
+    git clone https://github.com/minsu1206/ExploreGS.git --recursive
     cd ExploreGS
     conda env create -f environment.yml
     conda activate exploregs
