@@ -20,6 +20,7 @@
 ---
 
 ## 🗞️ News
+- **[05/18/2026]** Dataset generation pipeline for diffusion training is now available!
 - **[10/31/2025]** Code and models are now available!
 
 ---
@@ -47,6 +48,10 @@
     - Edit dataset & checkpoint path at `run_stage1.sh` , `run_stage2.sh` , `run_stage1_we.sh`, `run_stage2_we.sh`
     - Download Depth-Anything-V2 checkpoint. we use `vitl` version.
     - If you want to preprocess for custom dataset, read README.md at folder `data_preprocess` (#TBD)
+
+### Optional: Dataset Generation
+
+To create a dataset for training the diffusion model, refer to [ExploreGS-GS-DataGen](https://github.com/minsu1206/ExploreGS-GS-DataGen).
 
 ## 🚀 Run
 ### ▶ Curated Nerfbusters
